@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/fifo/Área de trabalho/Calculadora Proporção/venv/bin/python3" "$0" "$@"
+'''exec' "/home/fifo/Área de trabalho/Calculadora/venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
